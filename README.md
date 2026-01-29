@@ -1,6 +1,6 @@
 If you want to install the Cisco Foundation Model using Ollama with Google CoLab, use the T4 GPU with High-Ram for the runtime type
 
-#Sample instructions
+# Sample Google Colab Jupyter instructions
 
 - sudo apt-get install zstd
 - curl -fsSL https://ollama.com/install.sh | sh
