@@ -5,6 +5,6 @@ If you want to install the Cisco Foundation Model using Ollama with Google CoLab
 - sudo apt-get install zstd
 - curl -fsSL https://ollama.com/install.sh | sh
 - ollama serve & '=
-  #Navigate to where you have the Modelfile and Cisco Foundation Model stored (e.g., Google Drive for CoLab) - you can see my prior LinkedIn article for instructions on setting this up
+- #Navigate to where you have the Modelfile and Cisco Foundation Model stored (e.g., Google Drive for CoLab) - you can see my prior LinkedIn article for instructions on setting this up
 - ollama create foundation-sec-8b -f Modelfile
 - ollama run foundation-sec-8b
